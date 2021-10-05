@@ -1,1 +1,15 @@
-/* styles go here */
+.infoBlock {
+  margin-bottom: 20px;
+}
+
+.infoBlock:last-child {
+  margin-bottom: 0;
+}
+
+.lineInfo {
+  margin-bottom: 10px;
+}
+
+.lineInfo:last-child {
+  margin-bottom: 0;
+}
